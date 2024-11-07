@@ -1,3 +1,3 @@
 # QW Mod
 
-An mod that expands the rping experience.
+A mod that expands the rping experience.
