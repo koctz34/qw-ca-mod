@@ -1,9 +1,9 @@
 {    
     "type": "CanvasBlock",
-    "name": "Small replicanvas",
+    "name": "Borderless microcanvas",
     "health": 600,
     "size": 1,
-    "canvasSize": 32,
+    "canvasSize": 12,
     "alwaysUnlocked": true,
     "requirements": [
      "beryllium/10",
