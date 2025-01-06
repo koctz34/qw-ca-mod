@@ -1,18 +1,11 @@
 name: camod
-displayName: "QW Mod"
-subtitle: "Qol stuff | v4.1"
-description: "Mod for QW.
+displayName: "CA-QW Mod"
+subtitle: "Combination"
+description: "ca-mod and qw-mod.
 
-Focused on improving the rp experience.
-
-This is the last content update,
-updates in the feature will consist only
-of minor QoL and fixes. Thanks!
-- GMug, V4
-
-Version v4.1"
-author: "Bloop, Iris/petal, Quantum, Nameless, T4SC, HanLarence, Exinet, Tech, Hurb, Scrapper, 4.b1, & All of QW"
-repo: "GMugXD/qw-mod"
+Focused on improving the rp experience."
+author: "Developers of QW-mod and CA-mod, koctz34"
+repo: "koctz34/qw-ca-mod"
 minGameVersion: 143
 version: 69420
 hideBrowser: false
