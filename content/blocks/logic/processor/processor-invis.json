@@ -1,6 +1,6 @@
 {    
     "type": "LogicBlock",
-    "name": "Invis Processor",
+    "name": "Ultra Invis Processor",
     "health": 600,
     "size": 1,
     "range": 1000,

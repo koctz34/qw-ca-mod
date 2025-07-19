@@ -1,5 +1,5 @@
 {
-"type": "ItemBridge",
+"type": "BufferedItemBridge",
 "name": "Infinite Bridge",
 "range": 500,
 "health": 200,

@@ -1,12 +1,12 @@
 name: camod
-displayName: "CA-QW Mod"
+displayName: "CA-QW-QR Mod"
 subtitle: "Combination"
-description: "ca-mod and qw-mod.
+description: "ca-mod, qr mod and qw-mod.
 
 Focused on improving the rp experience."
-author: "Developers of QW-mod and CA-mod, koctz34"
+author: "Developers of QW-mod, QR-mod and CA-mod, koctz34"
 repo: "koctz34/qw-ca-mod"
-minGameVersion: 143
-version: 69420
+minGameVersion: 148
+version: 2
 hideBrowser: false
 hidden: true
